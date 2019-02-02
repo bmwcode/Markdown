@@ -16,6 +16,8 @@
 > This is a blockquote
 > This is more text in the block quote
 
+----
+
 Cat | Dog
 ------------ | -------------
 1 | 2

@@ -1,7 +1,7 @@
 #### Markdown
 ## Project for markdown challenge.
 
-[dalemusser](https://dalemusser.com)
+[dalemusser.com - link to external website](https://dalemusser.com)
 
 Helllo **world**!
 '
